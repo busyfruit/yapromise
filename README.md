@@ -11,7 +11,7 @@ YaPromise is an implementation of the Promise/A+ spec.
 It is a tiny promise library (the core has only about 200 LOC with  comment) written with ES2015 syntax, encapsulates promise state properly and exposes useful api for usage.
 
 # Install
-`npm install yapromise`
+`npm install yapromise --save`
 
 # Run test
 `npm run test`
